@@ -1,0 +1,6 @@
+root:x:0:root
+wheel:x:998:root,founder
+audio:x:995:founder
+video:x:993:founder
+input:x:968:founder
+founder:x:1000:
