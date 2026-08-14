@@ -9,7 +9,7 @@
 ![Arch Based](https://img.shields.io/badge/base-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/WM-Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=white)
 ![Status](https://img.shields.io/badge/status-VM%20tested%20only-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 
 </div>
 
